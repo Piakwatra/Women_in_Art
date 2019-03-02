@@ -1,0 +1,14 @@
+.carousel-item{
+  height: 100vh;
+  min-height: 300px;
+  background: center-scroll;
+  background-size: cover;
+}
+.carousel-caption{
+  bottom: 270px;
+}
+.carousel-caption h1{
+  font-size: 30px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
