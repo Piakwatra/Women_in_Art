@@ -58,3 +58,47 @@ input[type=submit]:hover {
 .gap{
 margin-top: 100px;
 }
+.bg-image-pq {
+    background-color: inherit;
+    background-image: url(https://c1.staticflickr.com/9/8403/8691821209_6457b6e42e_b.jpg);
+    background-size:280px;
+    background-position:50% 20% ;
+}
+
+.bg-image-hj {
+  background-color: inherit;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/4/44/Hella_Jongerius_at_Opening_Delegates_Lounge.jpg);
+  background-size:280px;
+  background-position: 50% 20%;
+}
+.bg-image-cc {
+  background-color: inherit;
+  background-image: url(https://cdn-images-1.medium.com/max/1600/1*WeeVgIUhcy95HW8zUmfDjQ.jpeg);
+  background-size:280px;
+  background-position: center;
+}
+.bg-image-vw {
+  background-color: inherit;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/5/59/Vera_Wang_2009_portrait_Tribeca.jpg);
+  background-size:280px;
+  background-position: center;
+}
+.bg-image-bp {
+  background-color: inherit;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/6e/Potter_1912.JPG);
+  background-size:280px;
+  background-position: 50% 30%;
+}
+.bg-image-fk {
+  background-color: inherit;
+  background-image: url(https://farm9.staticflickr.com/8147/7523516618_d1077640ef_b.jpg);
+  background-size:280px;
+  background-position: 50% 30%;
+}
+
+.website {
+  text-align: center;
+}
+.buttons {
+  text-align: center;
+}
